@@ -1,4 +1,4 @@
-
+"""get unix time via https://safe-hollows-03074.herokuapp.com/get_time"""
 import os
 import time
 from flask import Flask
